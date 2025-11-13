@@ -1,20 +1,5 @@
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
+广州二手房
+广州黄埔区
 
 深度学习
 机器视觉
@@ -30,5 +15,6 @@ ai
 马斯克
 Tesla
 
-广州二手房
-广州黄埔区
+ai
+!gai
+人工智能
